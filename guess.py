@@ -2,7 +2,7 @@
 # import random
 # num = random.randint(1,100)
 # x = 1
-# while x<100:
+# while x<=100:
 #     x+=1
 #     guess = int(input("Enter number:"))
 #     if guess > num:
