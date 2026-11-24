@@ -16,7 +16,7 @@ Level 2: Formula-Based Problems (11–20)
 
 13. Write a program to calculate the square and cube of a number using the exponentiation operator.
 14. Write a program to check whether a number is even or odd using the modulus operator.
-15. Write a program to calculate the area and perimeter of a rectangle.
+15. Write a program to calculate the area and perimeter of a Square.
 16. Write a program to extract the last digit of a given integer.
 17. Write a program to extract the first digit of a positive integer using arithmetic operators.
 18. Write a program to reverse a three-digit number using only arithmetic operators.
