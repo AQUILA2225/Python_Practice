@@ -1,4 +1,5 @@
 Level 1: Basic Variable Operations
+
 1. Create three variables to store your name, age, and city.
 2.Create a variable called break and assign it a value 5. See what happens and find out the reason behind the behavior that you see.
 3. Declare two variables a and b with values 10 and 20. Swap their values without using a third variable.
@@ -6,7 +7,9 @@ Level 1: Basic Variable Operations
 5. Assign the value 100 to three variables in a single line.
 6. Assign three different values to three variables in a single line.
 7. Create a variable x with value 50. Update its value to 100 without creating another variable.
+
 Level 2: Variable Manipulation
+
 8. Create two variables a = 15 and b = 25. Find their sum and store it in a third variable.
 9. Create a variable x = 10. Increase its value by 5 using an assignment operator.
 10. Create two variables a = 5 and b = 10. Swap their values using a third variable.
